@@ -2,6 +2,7 @@
 In this Project Their is analysis pizza sales through PowerBI and SQL
 
 PROBLEM STATEMENT
+
 KPI’s REQUIREMENT
 
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
