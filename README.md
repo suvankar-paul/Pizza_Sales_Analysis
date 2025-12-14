@@ -1,3 +1,11 @@
+<img width="1148" height="640" alt="image" src="https://github.com/user-attachments/assets/ace95264-980b-4219-8ab2-244b4c78db81" />
+
+<img width="1157" height="647" alt="image" src="https://github.com/user-attachments/assets/7ca1d9e7-7b68-4c88-8a44-ddb28251d58b" />
+
+
+
+
+
 # Pizza_Sales_Analysis
 In this Project Their is analysis pizza sales through PowerBI and SQL
 
